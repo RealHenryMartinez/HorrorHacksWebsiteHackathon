@@ -22,7 +22,7 @@ const Home = () => {
               className='navbutton justify-center'
 
             >
-              <h1 className='p-5 px-10 rounded-full bg-[#ffc77d] text-[#f5764f] font-semibold text-xl hover:bg-[#fcb04c] hover:text-[#fa6d42]'>Play Now</h1>
+              <a href="https://replit.com/@HenryMartinez8/python?v=1" className='p-5 px-10 rounded-full bg-[#ffc77d] text-[#f5764f] font-semibold text-xl hover:bg-[#fcb04c] hover:text-[#fa6d42]'>Play Now</a>
 
             </NavLink>
           

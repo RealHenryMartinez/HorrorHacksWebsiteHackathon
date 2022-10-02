@@ -3,9 +3,20 @@ import React from 'react'
 const Description = () => {
   return (
     <div className=' my-32 ml-10 mr-10 text-stone-50'>
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+        <ul>
+          <li>
+          Ghost Runner is a game application that anyone can use to defeat certain levels. 
+          </li>
+          <li>
+          The first page of our website gives an outline of the game and when you press the “play button”, you will be redirected to the main page. 
+          </li>
+          <li>
+          You can select from different difficulty.
+          </li>
+          <li>
+          Anyone who is looking to have a fun and entertaining experience during the spooky times!
+          </li>
+        </ul>
     </div>
   )
 }
