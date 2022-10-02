@@ -8,21 +8,25 @@ const GameGallery = () => {
     function goLeft() {
         document.querySelector(".allPages").scrollLeft -= 240;
     }
+
+    let Image1 = require('../assets/Pumpkin.png');
     
   return (
+    
     <div className='flex justify-end'>
         <div className=''>
+        <img src={Image1} alt="link" className='w-100 h-auto  mt-10' />
         <div className="Left">
             <button className=" bg-slate-600 w-1" onclick="goLeft()">
                 
             </button>
             <div className="allPages mx-48 ">
 
-                <div className="allpage" id="page1">
-                    <h1 className=" bg-slate-300 p-40 w-96 ">
-                        Hello
-                    </h1>
-                </div>
+                
+                    
+                    
+                    
+                
 
                 
                 {/* <div className="allpage"id="page2">
