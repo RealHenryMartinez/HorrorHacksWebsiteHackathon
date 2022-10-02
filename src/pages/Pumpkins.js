@@ -38,10 +38,10 @@ const Pumpkins = (props) => {
     // const listItems = names.map((n) => <h1 key={n.names} >{n.names}</h1>)
 
   return (
-    <div className='mt-10'>
-      <h1 className='text-center text-gray-700 text-7xl' >Pumpkin</h1>
-      <p className='text-center mt-3'>" of DOOM"</p>
-      <div className='columns-3 gap-10 mx-10 mt-10 '>
+    <div className='py-10 bg-[#3d2c3c]'>
+      <h1 className='text-center text-[#fff] text-7xl' >Hall of Pumpkins</h1>
+      <p className='text-center mt-3 text-[#fff]'>"secret"</p>
+      <div className='columns-3 gap-10 mx-28 mt-10 '>
         
         {names.map((user, index) => {
           return <PumpkinCard key={index}

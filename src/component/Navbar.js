@@ -13,7 +13,7 @@ const Navbar = () => {
     <>
            <Nav>
             <NavLogo to="/">
-                HorrorHacks
+                Ghost Runner
             </NavLogo>
             
 
@@ -28,14 +28,14 @@ const Navbar = () => {
                   to="/pumpkins"
                   activeStyle={{ color: 'black' }}
                 >
-                    Pumpkins
+                    (secret game)
                 </NavLink>
-                {/* <NavLink 
+                <NavLink 
                   to="/game" 
                   activeStyle={{ color: 'black' }}
                 >
                     Game
-                </NavLink> */}
+                </NavLink>
                 {/* <NavLink
                   to="/signin"
                   activeStyle={{ color: 'black' }}
