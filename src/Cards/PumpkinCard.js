@@ -20,7 +20,7 @@ const PumpkinCard = (props) => {
                 position="right center">
                 <div>
                   <h1>
-                    Boo
+                    Booo
                   </h1>
                 </div>
               </Popup>
