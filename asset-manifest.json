@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.80c17206.css",
+    "main.js": "/react-gh-pages/static/js/main.c57713e7.js",
+    "static/media/Pumpkin.png": "/react-gh-pages/static/media/Pumpkin.ce56ab666750bec0c625.png",
+    "static/media/personIcon.png": "/react-gh-pages/static/media/personIcon.9115187122df65ba733c.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.80c17206.css.map": "/react-gh-pages/static/css/main.80c17206.css.map",
+    "main.c57713e7.js.map": "/react-gh-pages/static/js/main.c57713e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c17206.css",
+    "static/js/main.c57713e7.js"
+  ]
+}
