@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.80c17206.css",
-    "main.js": "/static/js/main.353ef9a6.js",
-    "static/media/Pumpkin.png": "/static/media/Pumpkin.ce56ab666750bec0c625.png",
-    "static/media/personIcon.png": "/static/media/personIcon.9115187122df65ba733c.png",
-    "index.html": "/index.html",
-    "main.80c17206.css.map": "/static/css/main.80c17206.css.map",
-    "main.353ef9a6.js.map": "/static/js/main.353ef9a6.js.map"
+    "main.css": "/HorrorHacksWebsiteHackathon/static/css/main.80c17206.css",
+    "main.js": "/HorrorHacksWebsiteHackathon/static/js/main.3c393a27.js",
+    "static/media/Pumpkin.png": "/HorrorHacksWebsiteHackathon/static/media/Pumpkin.ce56ab666750bec0c625.png",
+    "static/media/personIcon.png": "/HorrorHacksWebsiteHackathon/static/media/personIcon.9115187122df65ba733c.png",
+    "index.html": "/HorrorHacksWebsiteHackathon/index.html",
+    "main.80c17206.css.map": "/HorrorHacksWebsiteHackathon/static/css/main.80c17206.css.map",
+    "main.3c393a27.js.map": "/HorrorHacksWebsiteHackathon/static/js/main.3c393a27.js.map"
   },
   "entrypoints": [
     "static/css/main.80c17206.css",
-    "static/js/main.353ef9a6.js"
+    "static/js/main.3c393a27.js"
   ]
 }
